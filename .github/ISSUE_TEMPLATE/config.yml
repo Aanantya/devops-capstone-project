@@ -1,0 +1,7 @@
+
+---
+
+3. **config.yml** (to disable blank issues)
+
+```yaml
+blank_issues_enabled: false
